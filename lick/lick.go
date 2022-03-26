@@ -1,0 +1,5 @@
+package lick
+
+func Lick() {
+
+}
